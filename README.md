@@ -1,5 +1,7 @@
 # fastapi_tutorial
 
+> 原仓库地址：https://gitee.com/xiaozhong1988/fastapi_tutorial
+
 #### 书籍封面
 
 ![输入图片说明](image.png)
